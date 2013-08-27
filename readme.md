@@ -1,0 +1,1 @@
+The machine learning algorithm for the binary classification of tweets into either: Politics or Sports 

@@ -1,0 +1,26 @@
+####################################################################################
+
+				  TEAM HYDRA
+			PES Institute of technology, Bangalore
+
+
+####################################################################################
+Steps to be followed to execute the code correctly
+This code is written to accept test.txt
+So make sure that you have test.txt 
+
+1.)Goto the Twit Miner Directory
+
+2.)
+Run this command in terminal
+python InitialConfiguration.py
+python RunTwitMiner.py
+
+
+After executing these two line python scripts , you will get the output in OutputTest.txt
+
+Thank you
+
+Authors,
+Arpan Madan Gupta
+Ahmed Shabib Bolwar
